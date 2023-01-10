@@ -12,23 +12,22 @@
     * 輸入「display」以篩選及顯示「設定顯示語言」命令。點擊後會顯示已安裝的語言清單 
     * 選擇「中文(繁體)」並重新開啟VSCode，即完成中文介面設定！
 
-![language](<image/language.png>)
+    ![language](<image/language.png>)
 
 2. 終端機輸出（【Code Runner】套件）：
 
     * 找到Code Runner套件，點擊設定icon進入「擴充設定」介面
     * 勾選「Code-runner: Run In Terminal」，使執行結果可於終端機顯示！
 
-![codeRunner](<image/code-runner.png>)
+    ![codeRunner](<image/code-runner.png>)
 
-3. 相對路徑設定（Python）
+3. 相對路徑設定（Python）：
     
     * 點擊畫面左下角設定按鈕，進入「設定」介面
     * 輸入「execute」以篩選及顯示執行的相關設定
     * 勾選「Python > Terminal: Execute in File Dir」，使Python檔案可直接讀取相對路徑資料！
 
-![path](<image/path.png>)
-
+    ![path](<image/path.png>)
 
 ## 各語言執行方法
 
