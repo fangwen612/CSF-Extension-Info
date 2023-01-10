@@ -2,12 +2,12 @@
 
 | 程式語言 | 環境建置       | 建議版本 | 檢查安裝版本指令 |
 | ------- | -------------  | ----- | ---|
-| C       | 需安裝 [GCC](https://sourceforge.net/projects/mingw/) | 7.3.0 | gcc -v |
-| C++     | 需安裝 [GCC](https://sourceforge.net/projects/mingw/) | 7.3.0 | gcc -v |
-| C#      | 需安裝 [.Net](https://dotnet.microsoft.com/en-us/download) | 6 | dotnet --list-runtimes |
-| Go      | 需安裝 [Go](https://go.dev/) | 1.13.8 | go version |
-| Java    | 需安裝 [JDK](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) | 17.0.1 | java -version |
-| Python  | 需安裝 [Python](https://www.python.org/downloads/windows/) | 3.8.8 | python -V 或<br /> python --version |
+| C       | 需安裝 [GCC](https://sourceforge.net/projects/mingw/) | gcc 9.4 | gcc -v |
+| C++     | 需安裝 [G++](https://sourceforge.net/projects/mingw/) | g++ 9.4 | gcc -v |
+| C#      | 需安裝 [.Net](https://dotnet.microsoft.com/en-us/download) | .Net 6 | dotnet --list-runtimes |
+| Go      | 需安裝 [Go](https://go.dev/) | go 1.13.8 | go version |
+| Java    | 需安裝 [JDK](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) | java 17.0.1 | java -version |
+| Python  | 需安裝 [Python](https://www.python.org/downloads/windows/) | python 3.8.8 | python -V 或<br /> python --version |
 
 如在終端機或命令題示字元(cmd)，輸入表格中「檢查安裝版本指令」，有出現相關說明或version版本等訊息，即為安裝成功且可查看安裝版本資訊。
 

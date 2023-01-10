@@ -1,6 +1,6 @@
 # CSF-Extension 套件介紹
 
-隨著 TQC+ 各項程式語言認證陸續推出，越來越多人使用 VSCode 這套工具應考，為讓推廣同仁在設定編輯環境更為便利，故製作此 VSCode 擴充套件組合包。
+隨著 TQC+ 各項程式語言認證陸續推出，越來越多人使用 VSCode 這套工具應考，為讓設定編輯環境更為便利，故製作此 VSCode 擴充套件組合包。
 
 請先安裝 VSCode，並於套件功能區輸入「CSF」，就會出現 [CSF Extension](https://marketplace.visualstudio.com/items?itemName=skes4126.CSF-Extension) ，再按下「安裝」按鈕！
 

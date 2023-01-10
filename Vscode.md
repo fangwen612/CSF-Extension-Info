@@ -9,8 +9,8 @@
 1. 中文介面（【Chinese (Traditional) Language Pack for Visual Studio Code】套件）：
     
     * 按下「Ctrl+Shift+P」，以顯示「命令選擇區」
-    * 輸入「display」以篩選及顯示「設定顯示語言」命令。點擊後會顯示已安裝的語言清單 
-    * 選擇「中文(繁體)」並重新開啟VSCode，即完成中文介面設定！
+    * 輸入「display」以篩選「Display Language」命令。點擊後會顯示已安裝的語言清單 
+    * 選擇「中文(繁體)」並重新開啟 VSCode ，即完成中文介面設定！
 
     ![language](<image/language.png>)
 
