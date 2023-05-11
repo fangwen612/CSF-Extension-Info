@@ -13,7 +13,7 @@
 
 1. VSCode：<https://code.visualstudio.com/download>
 2. Visual stdudio：<https://visualstudio.microsoft.com/zh-hant/downloads/>
-3. Dev C++：<http://www.bloodshed.net/>
+3. Dev C++：<https://sourceforge.net/projects/orwelldevcpp/files/>
 4. Nodepad++：<https://notepad-plus-plus.org/downloads/>
 5. JCreator：<https://jcreator.en.softonic.com/download>
 6. Eclipse：<https://www.eclipse.org/downloads/>
