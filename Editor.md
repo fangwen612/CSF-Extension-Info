@@ -1,6 +1,6 @@
-# 各語言推薦編輯器
+# 安裝IDE/編輯器
 
-| 程式語言 | 編輯器 | 
+| 程式語言 | IDE/編輯器 | 
 | ------- | -----  |
 | C       | VSCode<br />Visual stdudio<br />Dev C++ | 
 | C++     | VSCode<br />Visual stdudio<br />Dev C++ | 
