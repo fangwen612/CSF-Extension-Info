@@ -1,4 +1,4 @@
-# 安裝開發環境
+# 安裝編譯器/直譯器
 
 | 程式語言 | 環境建置       | CJ目前使用版本 | 檢查安裝版本指令 |
 | ------- | -------------  | ----- | ---|
@@ -9,7 +9,7 @@
 | Java    | 需安裝 [JDK](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) | java 17.0.1 | java -version |
 | Python  | 需安裝 [Python](https://www.python.org/downloads/windows/) | python 3.8.8 | python -V 或<br /> python --version |
 
-如在終端機或命令題示字元(cmd)，輸入表格中「檢查安裝版本指令」，有出現相關說明或version版本等訊息，即為安裝成功且可查看安裝版本資訊。
+如在終端機或命令提示字元(cmd)，輸入表格中「檢查安裝版本指令」，有出現相關說明或version版本等訊息，即為安裝成功且可查看安裝版本資訊。
 
 ## MinGW安裝GCC說明
 
