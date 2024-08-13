@@ -7,7 +7,7 @@
 | C#      | VSCode<br />Visual Studio | 
 | Go      | VSCode<br />Nodepad++ | 
 | Java    | VSCode<br />Notepad++<br />Eclipse | 
-| Python  | VSCode<br />Spyder<br />Pycharm | 
+| Python  | VSCode<br />Spyder | 
 
 ## 下載連結
 
@@ -17,4 +17,3 @@
 4. Nodepad++：<https://notepad-plus-plus.org/downloads/>
 5. Eclipse：<https://www.eclipse.org/downloads/>
 6. Spyder：<https://www.spyder-ide.org/>
-7. Pycharm：<https://www.jetbrains.com/pycharm/download/#section=windows>
