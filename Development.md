@@ -28,7 +28,8 @@
 
 2-1. 開啟 [MinGW](https://sourceforge.net/projects/mingw/) 並安裝後，進入介面，選擇安裝C語言及C++編輯環境，點擊「Installation」開始安裝。
 
-    ![gcc-1](<image/gcc-1.png>)
+    ![gcc-1](.gitbook/assets/gcc-1.png)
+2.  安裝完成後，需手動配置Path環境變數，進入【控制台】>【系統】>【關於】>【進階系統設定】，在「系統內容」中選擇設定「環境變數」。並在當前用戶下的Path新增「C:\MinGW\bin」路徑，即完成GCC編輯環境建置。
 
 2-2. 安裝完成後，需手動配置Path環境變數，進入【控制台】>【系統】>【系統資訊】>【進階系統設定】，在「系統內容」中選擇設定「環境變數」。並在當前用戶下的Path新增「C:\MinGW\bin」路徑，即完成GCC編輯環境建置。
 
