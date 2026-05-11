@@ -13,12 +13,14 @@
     * 選擇「中文(繁體)」並重新開啟 VSCode ，即完成中文介面設定！
 
     ![language](.gitbook/assets/language.png)
+
 2.  終端機輸出（【Code Runner】套件）：
 
     * 找到Code Runner套件，點擊設定icon進入「擴充設定」介面
     * 勾選「Code-runner: Run In Terminal」，使執行結果可於終端機顯示！
 
     ![codeRunner](.gitbook/assets/code-runner.png)
+    
 3.  相對路徑設定（Python）：
 
     * 點擊畫面左下角設定按鈕，進入「設定」介面
